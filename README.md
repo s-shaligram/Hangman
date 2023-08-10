@@ -7,10 +7,6 @@
 
 Hangman Project is a simple iOS game developed in Swift. It follows the traditional rules of the Hangman game, where the player needs to guess a word by suggesting letters one by one. The player has a limited number of attempts before the hangman is completed.
 
-## Screenshots
-
-_(Add some screenshots of your app here)_
-
 ## Features
 
 - Interactive UI: The game provides a user-friendly interface, allowing players to easily input their guesses and interact with the hangman's progress.
